@@ -1,3 +1,5 @@
+![Maven Café Homepage](https://github.com/IkhlasAhmad1998/Power-Bi-Projects/blob/c8a37249e720d9dd729a8949be988c9271b37e38/Maven%20Cafe%20Challenge/images/hompage-with-details.jpg)
+
 # Maven Rewards Challenge - Customer Behavior & Offer Analysis
 
 This repository contains the full analysis and insights derived from the Maven Rewards Challenge, where the goal was to analyze customer behavior and offer effectiveness for [Maven Café](https://mavenanalytics.io/challenges/maven-rewards-challenge/404c6060-60eb-400f-9bce-c3b9f97e9d5a). The project was completed using **Power BI**.
