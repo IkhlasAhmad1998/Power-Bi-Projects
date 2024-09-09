@@ -30,12 +30,15 @@ The dataset consists of:
 3. **Events Data**: Events information.
 
 ## Data Transformation
+![Data Transformation](https://github.com/IkhlasAhmad1998/Power-Bi-Projects/blob/d2489c16a63b4677c848fb3d876f6f0b6018d8fb/Maven%20Cafe%20Challenge/images/data-preparation.jpg)
+
 Data transformation was conducted using **Power BI**:
 - Loaded CSV files for customers, offers, and transactions.
 - Cleaned and standardized data for analysis, transforming time variables (offers in days, events in hours).
 - Split the `events` table to separate transactions from offer-related events for clearer analysis.
 
 ## Data Modeling
+![Data Modeling](https://github.com/IkhlasAhmad1998/Power-Bi-Projects/blob/d2489c16a63b4677c848fb3d876f6f0b6018d8fb/Maven%20Cafe%20Challenge/images/data-modelling.jpg)
 Data modeling involved linking the tables based on unique identifiers:
 - **Customers** linked with **Transactions** and **Offers** via `customer_id` and `offer_id`.
 - Created a bridge table between offers and channels to maintain offer integrity.
